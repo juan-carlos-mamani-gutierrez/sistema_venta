@@ -1,0 +1,32 @@
+.estilo_logo {
+ 
+  width: 180px;
+  height: 180px;
+  
+}
+
+@media(min-width:768px){
+    .estilo_logo {
+ 
+        width: 230px;
+        height: 230px;
+        
+      }
+
+}
+
+.estilo_error{
+  text-align: center;
+  margin-top:1rem;
+  background-color: #f8d7da;
+  color: #721c24; 
+  border: 1px solid #f5c6cb; 
+  padding: 0.5rem; 
+  margin-bottom: 1rem; 
+  border-radius: 0.25rem;
+}
+.estilo_loginParrafo{
+font-size: 25px; 
+font-weight: bold; 
+color: #304c7e;
+}
